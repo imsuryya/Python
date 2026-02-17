@@ -1,9 +1,4 @@
 # Python
-
-A comprehensive guide to learning Python programming.
-
----
-
 ## 1. Introduction to Programming
 
 - Basic understanding of programming concepts (variables, data types, loops, conditionals)
