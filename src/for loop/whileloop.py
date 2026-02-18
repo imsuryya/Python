@@ -24,4 +24,4 @@ while num <= n:
     else:
         print(num, "is Not a Prime Number")
 
-    num += 
+    num +=1
